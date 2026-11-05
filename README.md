@@ -1,7 +1,7 @@
 # Image Capture and Video Processing Using OpenCV
 
-**Name       :**  **Karthickkumar R** 
-**Register No:** **212223040087**
+## Name       :  **Karthickkumar R** 
+## Register No: **212223040087**
 
 
 ---
