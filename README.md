@@ -1,5 +1,9 @@
 # Image Capture and Video Processing Using OpenCV
 
+**Name       :**  **Karthickkumar R** 
+**Register No:** **212223040087**
+
+
 ---
 
 ## Aim
@@ -102,9 +106,12 @@ plt.show()
 ### iv) Rotate and display the video
 <img width="283" height="386" alt="Screenshot 2026-11-05 230241" src="https://github.com/user-attachments/assets/0a8336aa-550f-451b-bc49-6de3b912d9a8" />
 
-
 ---
 
+
 ## Result:
-         Thus, the image is successfully captured from the webcam and various video processing operations such as saving, displaying, resizing, and rotating are performed using OpenCV.
+          Thus, the image is successfully captured from the webcam and various video processing operations such as saving, displaying, resizing, and rotating are performed using OpenCV.
+
+
+         
 
