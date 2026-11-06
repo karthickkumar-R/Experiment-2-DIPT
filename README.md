@@ -49,7 +49,7 @@ Resize the frame and rotate it using OpenCV functions, then display the processe
 ### Developed By:
 **Name       :**  **Karthickkumar R** 
 **Register No:** **212223040087**
-
+```
 import cv2
 import matplotlib.pyplot as plt
 import numpy as np
@@ -85,7 +85,7 @@ axes[2].axis('off')
 
 plt.tight_layout()
 plt.show()
-
+```
 
 ---
 
