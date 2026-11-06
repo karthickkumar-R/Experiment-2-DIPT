@@ -92,19 +92,18 @@ plt.show()
 ## Output
 
 ### i) Write the frame as JPG image
-<img width="497" height="375" alt="Screenshot 2026-11-05 225720" src="https://github.com/user-attachments/assets/d7bd1eb4-b5bc-4ce8-bb45-3c4c8f8ae473" />
-
+<img width="522" height="402" alt="Screenshot 2026-11-06 151203" src="https://github.com/user-attachments/assets/dec0cf6b-1d17-4467-8f68-a5c386585081" />
 
 ### ii) Display the video
-<img width="501" height="381" alt="Screenshot 2026-11-05 230115" src="https://github.com/user-attachments/assets/d82d283b-d3ef-4572-91d0-19e2b2c69081" />
-
+<img width="510" height="376" alt="Screenshot 2026-11-06 151212" src="https://github.com/user-attachments/assets/c264b260-dda2-44cb-9673-701fc68d3375" />
 
 ### iii) Display the video by resizing the window
-<img width="252" height="375" alt="Screenshot 2026-11-05 230152" src="https://github.com/user-attachments/assets/0d0a78bc-0558-4093-ade0-17eaec47b236" />
-
+<img width="248" height="381" alt="Screenshot 2026-11-06 151222" src="https://github.com/user-attachments/assets/1dc4f4ba-523d-4de8-80ea-21f7c0cf126b" />
 
 ### iv) Rotate and display the video
-<img width="283" height="386" alt="Screenshot 2026-11-05 230241" src="https://github.com/user-attachments/assets/0a8336aa-550f-451b-bc49-6de3b912d9a8" />
+<img width="290" height="377" alt="Screenshot 2026-11-06 151232" src="https://github.com/user-attachments/assets/ef9e3908-0337-414b-9979-45551d1e6e2a" />
+
+
 
 ---
 
